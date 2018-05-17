@@ -291,18 +291,18 @@ a:active {
 	float:left;
 	display:inline;
 	margin:9px 10px 0px 0px;
-	width:124px;
+	width:146px;
 	overflow:hidden;
 	position:relative;
 }
 .commend ul li img {
-	width:120px;
-	height:142px;
+	width:146px;
+	height:200px;
 	padding:1px;
 	border:1px solid #E2E2E2;
 }
 .commend ul li strong {
-	width:120px;
+	width:146px;
 	font-weight:normal;
 	display:block;
 	text-align:center;
@@ -315,7 +315,7 @@ a:active {
 .commend ul li p {
 	filter:alpha(opacity=80);
 	position: absolute;
-	top: 121px;
+	top: 146px;
 	left: 2px;
 	background-color: #484848;
 	opacity: 0.9;
